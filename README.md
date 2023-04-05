@@ -1,3 +1,6 @@
+# Antoine Rieuneau
+
+
 # Empty project to follow the Django 4 official tutorial
 
 Note: this project contains a `.gitignore` file, so that you will only share *source* code on GitHub. In particular it ignores:
